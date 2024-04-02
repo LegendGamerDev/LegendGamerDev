@@ -78,7 +78,7 @@ module.exports = {
                 await i.update({ embeds: [embed2], components: [button] })
             }
 
-            if (i.customId === 'page3') {
+            if (i.customId === 'page4') {
 
                 if (i.user.id !== interaction.user.id) {
                     return await i.reply({ content: `Only ${interaction.user.tag} can use these buttons!`, ephemeral: true })
