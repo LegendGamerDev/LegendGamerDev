@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "axios": "^1.6.8",
+    "better-sqlite3": "^9.4.3",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "quick.db": "^9.1.7"
+  },
+  "name": "legendsgamer-v14",
+  "version": "1.0.0",
+  "description": "LegendsGamer Bot",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "LegendsGamer"
+  },
+  "keywords": [
+    "LegendsGamer",
+    "Bot",
+    "Gamer"
+  ],
+  "author": "GamingLegends",
+  "license": "ISC"
+}
