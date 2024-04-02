@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Discord
 - 📫 How to reach me SOON
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: SOON
+- ⚡ Fun fact: I am Minecraft developer and a discord developer 😎
 
 <!---
 LegendGamerDev/LegendGamerDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
